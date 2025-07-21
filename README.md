@@ -29,7 +29,7 @@ This project focuses on analyzing OLA ride bookings data using **SQL** for query
 
 ## 🛠️ Tools & Technologies
 
-- **SQL** – PostgreSQL / MySQL / Compatible RDBMS
+- **SQL** – PostgreSQL
 - **Power BI** – Data visualization
 - **CSV** – Data source format
 
@@ -47,11 +47,11 @@ This project focuses on analyzing OLA ride bookings data using **SQL** for query
 
 ## 📷 Power BI Dashboard Preview
 
-> *(Add screenshot here if needed after uploading to GitHub)*
+> *(https://github.com/Rahul-MISExecutive/OLA-Booking-Analysis/tree/main/Dashboard%20Preview)*
 
 ---
 
 ## 🙋‍♂️ Author
 
 **Rahul Singh**  
-🎯 Entry Level MIS Executive
+Entry-Level MIS Executive
